@@ -1,0 +1,9 @@
+{
+  "warehouse": {
+    "url": "localhost:4000"
+  },
+  "jwt": {
+    "key": "0123456789",
+    "sub": "services/catalog"
+  }
+}
